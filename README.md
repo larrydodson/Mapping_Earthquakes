@@ -60,7 +60,7 @@ UTMCC DataViz Module 13, Mapping Earthquakes, JS &amp; APIs
 
 ---
 
-# Summary
+## Summary
 
 .
 
