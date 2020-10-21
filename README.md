@@ -8,7 +8,6 @@ UTMCC DataViz Module 13, Mapping Earthquakes, JS &amp; APIs
     - Purpose
     - Resources
   * Results
-  * Summary
  
 
 ---  
@@ -36,33 +35,22 @@ UTMCC DataViz Module 13, Mapping Earthquakes, JS &amp; APIs
 --- 
 
 ## Results
-
-   Below . 
-
-### Deliverable 1: Tectonic Plate Data
-
-### Deliverable 2: Major Earthquake Data 
-
-### Deliverable 3: Additional Map 
-
-
-
+ 
+ ### Deliverables Results: 
 
  
-   | **abc** |
-   | :---: |
-   | ![]() |
+   | **Deliverable Item** | **Sample** |
+   | :--- | :---: |
+   | Deliverable 1: Tectonic Plate Data | ![plates.png](https://github.com/larrydodson/Mapping_Earthquakes/blob/main/Earthquake_Challenge/plates.png) |
+   | Deliverable 2: Major Earthquake Data, <br> with a popup displaying the magnitude and location | ![majoreq.png](https://github.com/larrydodson/Mapping_Earthquakes/blob/main/Earthquake_Challenge/majoreq.png)<br>  |
+   | Deliverable 3: Additional Map | ![dark_map.png](https://github.com/larrydodson/Mapping_Earthquakes/blob/main/Earthquake_Challenge/dark_map.png) |
 
-
-
+**Overlays choices**: 
+ ![overlays.png](https://github.com/larrydodson/Mapping_Earthquakes/blob/main/Earthquake_Challenge/overlays.png)
 
 <br>
 
 ---
-
-## Summary
-
-.
 
 .end
 
