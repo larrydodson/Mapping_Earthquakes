@@ -1,6 +1,8 @@
-# Mapping_Earthquakes   .  https://larrydodson.github.io/Earthquakes_Mapping/
+# Mapping_Earthquakes 
 UTMCC DataViz Module 13, Mapping Earthquakes, JS &amp; APIs
 
+ https://larrydodson.github.io/Earthquakes_Mapping/
+ 
 ---
 
 ## Contents 
