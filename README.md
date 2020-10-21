@@ -46,7 +46,7 @@ UTMCC DataViz Module 13, Mapping Earthquakes, JS &amp; APIs
    | **Deliverable Item** | **Sample** |
    | :--- | :---: |
    | **Deliverable 1: Tectonic Plate Data** | ![plates.png](https://github.com/larrydodson/Mapping_Earthquakes/blob/main/Earthquake_Challenge/plates.png) |
-   | **Deliverable 2: Major Earthquake Data**, <br> (with a popup displaying the magnitude and location) | ![majoreq.png](https://github.com/larrydodson/Mapping_Earthquakes/blob/main/Earthquake_Challenge/majoreq.png)<br>  |
+   | **Deliverable 2: Major Earthquake Data**, <br> (with popup displaying the magnitude and location) | ![majoreq.png](https://github.com/larrydodson/Mapping_Earthquakes/blob/main/Earthquake_Challenge/majoreq.png)<br>  |
    | **Deliverable 3: Additional Map** <br> (dark map) | ![dark_map.png](https://github.com/larrydodson/Mapping_Earthquakes/blob/main/Earthquake_Challenge/dark_map.png) |
 
 **Overlays choices**: 
