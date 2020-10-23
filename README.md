@@ -29,7 +29,7 @@ UTMCC DataViz Module 13, Mapping Earthquakes, JS &amp; APIs
    
   
    ### Resources
-  * Data/content sources: GeoJSON earthquake data from the USGS website
+  * Data/content sources: 1) GeoJSON earthquake data from the USGS website, 2) Tectonic plate data GeoJSON/PB2002_boundaries.json from GitHub repository 
   * Software: Windows10, VS Code 1.49.1, GitHub, HTML 5, JavaScript ES6, D3.js, Leaflet, Mapbox, Bootstrap 3.3.7 
   
 <br>
